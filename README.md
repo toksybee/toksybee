@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toksybee
-- 👀 I’m interested in all i can to become an expert in DevOps
+- 👀 I’m interested in all I can to become an expert in DevOps
 - 🌱 I’m currently getting started with using GitHub
 - 💞️ I’m looking to collaborate with anyone with expertise in DevOps
 - ⚡ Fun fact: i dislike development so go easy on me :-)
